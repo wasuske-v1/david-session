@@ -57,20 +57,21 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-HELLO OWNER 👋
+..HELLO OWNER 👋
 ┏━━━━━━━━━━━━━━
 ┃RUOK MD SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬
-⛩️ • Creator = `𖥘 WASUKE D KAMADO 𖥘`& `MURKY GOJO 🦠`
+⛩️ • Creator =𖥘 WASUKE D KAMADO 𖥘& GOJO 🦠
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🦠 || WhattsApp https://chat.whatsapp.com/FBdEuciwT5PD8f85orkgUj
+🦠 || WhattsApp=
+ https://chat.whatsapp.com/FBdEuciwT5PD8f85orkgUj
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-`THANKS FOR USE PARAING CODE`
-`CONTACT My OWNER 24177059320`
- await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
+THANKS FOR USE PARAING CODE
+
+ awaitPair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
 
         await delay(100);
