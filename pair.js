@@ -64,12 +64,11 @@ HELLO OWNER 👋
 ┃CONNECTED ✅🔥🦅
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬
-⛩️ • Creator =𖥘 WASUKE D KAMADO
-BY • ADOREIEU D KAMADO 
+⛩️ • Creator = 𖥘 WASUKE D KAMADO
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 FAMILY KAMDO 👋💨
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-THANKS FOR USE PARAING CODE
+BY ADORIERU D KAMADO VII 
 
  awaitPair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id,{text:GIFTED_MD_TEXT},{quoted:session})
  
