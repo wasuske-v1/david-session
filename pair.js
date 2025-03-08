@@ -57,18 +57,17 @@ router.get('/', async (req, res) => {
                let session = await Pair_Code_By_Gifted_Tech.sendMessage(Pair_Code_By_Gifted_Tech.user.id, { text: '' + b64data });
 
                let GIFTED_MD_TEXT = `
-.HELLO OWNER 👋
+HELLO OWNER 👋
 ┏━━━━━━━━━━━━━━
 ┃KAMADO VII 💧 SESSION IS 
 ┃SUCCESSFULLY
 ┃CONNECTED ✅🔥🦅
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬
-⛩️ • Creator =𖥘 WASUKE D KAMADO  🌠 🦠
-😈BY •ADOREIEU D KAMADO 
+⛩️ • Creator =𖥘 WASUKE D KAMADO
+BY • ADOREIEU D KAMADO 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🦠 || WhattsApp=
- wa.me/24177059320 & wa.me/+233535009236
+FAMILY KAMDO 👋💨
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 THANKS FOR USE PARAING CODE
 
