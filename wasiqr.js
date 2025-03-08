@@ -66,11 +66,11 @@ HELLO OWNER 👋
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬
-⛩️ • Creator = `𖥘 WASUKE D KAMADO 𖥘`& `MURKY GOJO 🦠`
+⛩️ • Creator = 𖥘 WASUKE D KAMADO 𖥘& ADORIERU STARK 🦠
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-🦠 || WhattsApp https://chat.whatsapp.com/FBdEuciwT5PD8f85orkgUj
+🦠 || WhattsApp wa.me/24177059320 & wa.me/233535009236
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-`THANKS FOR USE PARAING CODE`
+THANKS FOR USE PARAING CODE
 	
 _Don't Forget To Give Star To My Repo_`
 	 await Qr_Code_By_Wasi_Tech.sendMessage(Qr_Code_By_Wasi_Tech.user.id,{text:WASI_MD_TEXT},{quoted:session})
