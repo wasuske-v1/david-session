@@ -59,14 +59,14 @@ router.get('/', async (req, res) => {
                let GIFTED_MD_TEXT = `
 HELLO OWNER 👋
 ┏━━━━━━━━━━━━━━
-┃KAMADO VII 💧 SESSION IS 
+┃KAMADO VII SESSION IS 
 ┃SUCCESSFULLY
-┃CONNECTED ✅🔥🦅
+┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬
-⛩️ • Creator = 𖥘 WASUKE D KAMADO
+⛩️ • Creator = 𖥘 WASUKE
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-FAMILY KAMDO 👋💨
+FAMILY KAMDO 
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 BY ADORIERU D KAMADO VII 
 
